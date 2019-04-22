@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Test
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Admin
+Implementation-Vendor-Id: com.example.test
+Build-Jdk: 1.8.0_192
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Test
+Created-By: Maven Integration for Eclipse
+
